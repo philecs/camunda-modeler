@@ -1,8 +1,8 @@
 {
-  "name": "camunda-modeler-next",
-  "version": "2.0.0-5",
-  "description": "Prototype of Camunda Modeler built with React",
-  "keywords": [],
+  "name": "camunda-modeler-client",
+  "version": "2.0.0",
+  "description": "Camunda Modeler client application",
+  "private": true,
   "main": "src/index.js",
   "dependencies": {
     "bpmn-js": "^2.5.0",
